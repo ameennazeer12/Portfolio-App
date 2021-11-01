@@ -1,5 +1,5 @@
-{ "homepage": "http://ameennazeer12.github.io/",
-  "name": "resume",
+{ "homepage": "http://ameennazeer12.github.io/PortfolioApp",
+  "name": "portfolioapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
