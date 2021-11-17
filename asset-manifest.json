@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PortfolioApp/static/css/main.b731add0.chunk.css",
-    "main.js": "/PortfolioApp/static/js/main.362d3430.chunk.js",
-    "main.js.map": "/PortfolioApp/static/js/main.362d3430.chunk.js.map",
+    "main.js": "/PortfolioApp/static/js/main.acc28e49.chunk.js",
+    "main.js.map": "/PortfolioApp/static/js/main.acc28e49.chunk.js.map",
     "runtime-main.js": "/PortfolioApp/static/js/runtime-main.b7bcaa7a.js",
     "runtime-main.js.map": "/PortfolioApp/static/js/runtime-main.b7bcaa7a.js.map",
     "static/js/2.8b5cd706.chunk.js": "/PortfolioApp/static/js/2.8b5cd706.chunk.js",
@@ -10,6 +10,8 @@
     "index.html": "/PortfolioApp/index.html",
     "static/css/main.b731add0.chunk.css.map": "/PortfolioApp/static/css/main.b731add0.chunk.css.map",
     "static/js/2.8b5cd706.chunk.js.LICENSE.txt": "/PortfolioApp/static/js/2.8b5cd706.chunk.js.LICENSE.txt",
+    "static/media/github.5cc3cc23.svg": "/PortfolioApp/static/media/github.5cc3cc23.svg",
+    "static/media/linkedin.e6f4c552.svg": "/PortfolioApp/static/media/linkedin.e6f4c552.svg",
     "static/media/quranpic.981f1e91.png": "/PortfolioApp/static/media/quranpic.981f1e91.png",
     "static/media/tasbeeh.63a02d86.png": "/PortfolioApp/static/media/tasbeeh.63a02d86.png"
   },
@@ -17,6 +19,6 @@
     "static/js/runtime-main.b7bcaa7a.js",
     "static/js/2.8b5cd706.chunk.js",
     "static/css/main.b731add0.chunk.css",
-    "static/js/main.362d3430.chunk.js"
+    "static/js/main.acc28e49.chunk.js"
   ]
 }
