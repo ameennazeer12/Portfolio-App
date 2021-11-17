@@ -21,5 +21,5 @@ export const projects = [
   },
 ];
 export const skills = [
-  'ReactJS', 'JavaScript (ES6+)','CSS3','HTML5','Bootstrap','TailwindCSS','Python','C++','SAP ABAP','SQL','Git','PWA',
+  'ReactJS', 'JavaScript (ES6+)','CSS3','HTML5','Python','C++','SAP ABAP','SAP ABAP-HR','Bootstrap','SQL','Git','PWA',
 ]

@@ -1,6 +1,8 @@
 
-import { ArrowRightIcon } from "@heroicons/react/solid";
-import React from "react";
+import { ArrowRightIcon } from "@heroicons/react/solid"
+import linkedin from '../projectpics/linkedin.svg'
+import github from '../projectpics/github.svg'
+import React from "react"
 
 export default function Navbar() {
   return (
@@ -18,6 +20,13 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
+          <a href="https://www.linkedin.com/in/ameen-nazeer-42307b13a/" target='_blank' rel='noreferrer' className="mr-5">
+             <img width='40px' src={linkedin} alt="LinkedIn"/>
+          </a>
+          <a href="https://github.com/ameennazeer12" target='_blank' rel='noreferrer' className="mr-5">
+             <img width='40px' src={github} alt="LinkedIn"/>
+          </a>
+
         </nav>
         <a
           href="#contact"
