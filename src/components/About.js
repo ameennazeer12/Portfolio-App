@@ -12,8 +12,8 @@ const About = () => {
           </h1>
           <p className="mb-8 leading-relaxed">
             I have 2 years of experience working in the IT industry as a developer.
-            I'm looking for opportunities in Software and Web Development in the United Arab Emirates preferably in Abu Dhabi.
-            If you have any do get in touch with me :) 
+            I'm looking for opportunities in Software and Web Development. If you have any do get in touch with me :) 
+            {/* in the United Arab Emirates preferably in Abu Dhabi. */}
           </p>
           </div>
          
